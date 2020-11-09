@@ -1,0 +1,10 @@
+C:\Users\shamu\Documents\Coding Projects\Countdown\Countdown\bin\Debug\Countdown.exe.config
+C:\Users\shamu\Documents\Coding Projects\Countdown\Countdown\bin\Debug\Countdown.exe
+C:\Users\shamu\Documents\Coding Projects\Countdown\Countdown\bin\Debug\Countdown.pdb
+C:\Users\shamu\Documents\Coding Projects\Countdown\Countdown\obj\Debug\Countdown.csprojAssemblyReference.cache
+C:\Users\shamu\Documents\Coding Projects\Countdown\Countdown\obj\Debug\Countdown.Properties.Resources.resources
+C:\Users\shamu\Documents\Coding Projects\Countdown\Countdown\obj\Debug\Countdown.csproj.GenerateResource.cache
+C:\Users\shamu\Documents\Coding Projects\Countdown\Countdown\obj\Debug\Countdown.csproj.CoreCompileInputs.cache
+C:\Users\shamu\Documents\Coding Projects\Countdown\Countdown\obj\Debug\Countdown.exe
+C:\Users\shamu\Documents\Coding Projects\Countdown\Countdown\obj\Debug\Countdown.pdb
+C:\Users\shamu\Documents\Coding Projects\Countdown\Countdown\obj\Debug\Countdown.CountdownWindow.resources
